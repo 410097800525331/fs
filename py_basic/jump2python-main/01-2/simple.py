@@ -1,9 +1,10 @@
-languages = ['python', 'perl', 'c', 'java']
+languages = ['python', 'javascript', 'c++', 'java', "MySQL"]
 
+# 파이썬은 문장 구분을 들여쓰기로 한다.
 for lang in languages:
-    if lang in ['python', 'perl']:
+    if lang in ['python', 'javascript']:
         print("%6s need interpreter" % lang)
-    elif lang in ['c', 'java']:
+    elif lang in ['c++', 'java']:
         print("%6s need compiler" % lang)
     else:
-        print("should not reach here")
+        print("%6s should not reach here" % lang)
