@@ -103,3 +103,15 @@ while count < 5:
     count += 1
 else:
     print("while 문이 정상 종료되었습니다.")
+
+# 중첩 while 문
+i = 1
+while i <= 3:
+    j = 1
+    while j <= 3:
+        print(f"i: {i}, j: {j}")
+        j += 1
+    i += 1
+
+# 파이썬은 증감연산자 없음
+# i++, i-- 연산자 없음
