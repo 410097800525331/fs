@@ -9,7 +9,6 @@ c = ['Life', 'is', 'too', 'short']
 d = [1, 2, 'Life', 'is']
 e = [1, 2, ['Life', 'is']]
 
-
 ### 인덱싱
 b = [1, 2, 3]
 print(b[0]) # 1
@@ -69,3 +68,4 @@ print(a) # [1, 4]
 a = [1, 2, 3, 4, 5]
 del a[2:]
 print(a) # [1, 2]
+

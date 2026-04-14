@@ -1,4 +1,4 @@
 # 실행:
-# vscode: F5 (사용자등록)
+# vscode: ctrl+F5
 # pycharm: shift+F10
 print("hello")

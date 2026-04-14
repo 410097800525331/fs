@@ -74,3 +74,13 @@ a = "Life is too short"
 print(a.startswith("Life i")) # True
 # endwith()
 print(a.endswith("ort")) # True
+
+
+
+
+
+
+
+
+
+

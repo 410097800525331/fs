@@ -1,6 +1,6 @@
 # multistring.py
 
-# *는 문자열을 반복
-print("=" * 50)
+# =을 50번 반복하여 출력
+print("=" * 10)
 print("My Program")
-print("=" * 50)
+print("=" * 10)

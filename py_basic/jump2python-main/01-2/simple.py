@@ -1,5 +1,6 @@
-languages = ['python', 'javascript', 'c++', 'java', "MySQL"]
+languages = ['python', 'javascript', 'c++', 'java', 'MySQL']
 
+# 주석: ctrl+/
 # 파이썬은 문장 구분을 들여쓰기로 한다.
 for lang in languages:
     if lang in ['python', 'javascript']:
