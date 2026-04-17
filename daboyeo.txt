@@ -1,0 +1,11 @@
+DB_HOST=gateway01.ap-northeast-1.prod.aws.tidbcloud.com
+DB_PORT=4000
+DB_USERNAME='3YyeY9Aobq3wfag.root'
+DB_PASSWORD='dJCRUFWgr8TPDCKP'
+DB_DATABASE='mydb'
+
+DB_URL=jdbc:mysql://gateway01.ap-northeast-1.prod.aws.tidbcloud.com:4000/mydb?sslMode=VERIFY_IDENTITY&enabledTLSProtocols=TLSv1.2,TLSv1.3
+DB_USER='3YyeY9Aobq3wfag.root'
+DB_PASS='dJCRUFWgr8TPDCKP'
+PORT='8080'
+TZ='Asia/Seoul'
